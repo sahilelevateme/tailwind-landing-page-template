@@ -6,6 +6,7 @@ import Avatar03 from "@/public/images/avatar-03.jpg";
 import Avatar04 from "@/public/images/avatar-04.jpg";
 import Avatar05 from "@/public/images/avatar-05.jpg";
 import Avatar06 from "@/public/images/avatar-06.jpg";
+import napkin from "@/public/images/napkin-selection.svg"
 
 export default function HeroHome() {
   return (
@@ -70,8 +71,8 @@ export default function HeroHome() {
               data-aos="zoom-y-out"
               data-aos-delay={150}
             >
-              The website builder you're <br className="max-lg:hidden" />
-              looking for
+              Privacy first AI centric <br className="max-lg:hidden" />
+              Employee Empowerment Platform
             </h1>
             <div className="mx-auto max-w-3xl">
               <p
@@ -79,8 +80,7 @@ export default function HeroHome() {
                 data-aos="zoom-y-out"
                 data-aos-delay={300}
               >
-                Simple is a modern website builder powered by AI that changes
-                how companies create user interfaces together.
+                Unleash the Power of Connected Growth: Empower Your People & Drive Business Success.
               </p>
               <div className="relative before:absolute before:inset-0 before:border-y before:[border-image:linear-gradient(to_right,transparent,theme(colors.slate.300/.8),transparent)1]">
                 <div
@@ -93,9 +93,8 @@ export default function HeroHome() {
                     href="#0"
                   >
                     <span className="relative inline-flex items-center">
-                      Start Free Trial{" "}
+                      {"Request a demo and see how our connected platform can transform your organization"}
                       <span className="ml-1 tracking-normal text-blue-300 transition-transform group-hover:translate-x-0.5">
-                        -&gt;
                       </span>
                     </span>
                   </a>
@@ -113,36 +112,36 @@ export default function HeroHome() {
           <div
             className="mx-auto max-w-3xl"
             data-aos="zoom-y-out"
-            data-aos-delay={600}
+            data-aos-once="true"
+            data-aos-delay={1000}
           >
             <div className="relative aspect-video rounded-2xl bg-gray-900 px-5 py-3 shadow-xl before:pointer-events-none before:absolute before:-inset-5 before:border-y before:[border-image:linear-gradient(to_right,transparent,theme(colors.slate.300/.8),transparent)1] after:absolute after:-inset-5 after:-z-10 after:border-x after:[border-image:linear-gradient(to_bottom,transparent,theme(colors.slate.300/.8),transparent)1]">
               <div className="relative mb-8 flex items-center justify-between before:block before:h-[9px] before:w-[41px] before:bg-[length:16px_9px] before:[background-image:radial-gradient(circle_at_4.5px_4.5px,_theme(colors.gray.600)_4.5px,_transparent_0)] after:w-[41px]">
                 <span className="text-[13px] font-medium text-white">
-                  cruip.com
+                  Elevana.ai
                 </span>
               </div>
               <div className="font-mono text-gray-500 [&_span]:opacity-0">
                 <span className="animate-[code-1_10s_infinite] text-gray-200">
-                  npm login
+                I need to give feedback to John for his work on the 'Project Phoenix' launch. Can you help me with that?<br />
                 </span>{" "}
                 <span className="animate-[code-2_10s_infinite]">
-                  --registry=https://npm.pkg.github.com
+                Sure! I see John played a key role in 'Project Phoenix'. I've analyzed project documentation and OKRs, and it looks like his contributions to streamlining the user onboarding flow were crucial in exceeding our customer acquisition targets by 15%.  I can also pull in relevant insights from his peers and stakeholders. Would you like me to draft some feedback based on these achievements and suggest relevant skills to highlight?<br />
                 </span>
                 <br />
-                <span className="animate-[code-3_10s_infinite]">
-                  --scope=@phanatic
+                <span className="animate-[code-3_10s_infinite] text-gray-200">
+                That's great! But also, John expressed interest in moving towards a more data-focused role. Can you suggest any short term developmental opportunities that align with his aspirations?<br />
                 </span>{" "}
                 <span className="animate-[code-4_10s_infinite]">
-                  Successfully logged-in.
+                  Absolutely! Based on his skillset and expressed interests, I recommend collaboration with the Data Analytics team. They have two open projects that align with his skills, career goals and our team's joint OKRs. I can also provide relevant learning resources and connect him with internal experts to help him explore. Would you like me to share these with John directly or through you?<br />
                 </span>
                 <br />
-                <br />
                 <span className="animate-[code-5_10s_infinite] text-gray-200">
-                  npm publish
+                  Through me
                 </span>
                 <br />
                 <span className="animate-[code-6_10s_infinite]">
-                  Package published.
+                  Ok I've added it to your Brainwaves
                 </span>
               </div>
             </div>

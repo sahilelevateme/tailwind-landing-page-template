@@ -22,7 +22,7 @@ export default function Banner() {
               <span className="px-1.5 italic">or</span>{" "}
               <a
                 className="font-medium text-emerald-400 hover:underline"
-                href="https://cruip.com/simple/"
+                href="https://Elevana.ai/simple/"
                 target="_blank"
                 rel="noreferrer"
               >
